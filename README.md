@@ -6,10 +6,6 @@
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue.svg)](https://github.com/PowerShell/PowerShell)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://learn.microsoft.com/powershell/)
 [![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](#)
-[![Downloads](https://img.shields.io/github/downloads/<DeinUser>/<DeinRepo>/total.svg)](https://github.com/<DeinUser>/<DeinRepo>/releases)
-[![Last Commit](https://img.shields.io/github/last-commit/<DeinUser>/<DeinRepo>.svg)](https://github.com/<DeinUser>/<DeinRepo)
-[![Stars](https://img.shields.io/github/stars/<DeinUser>/<DeinRepo>.svg)](https://github.com/<DeinUser>/<DeinRepo/stargazers)
-``
 
 ## 🖼️ Screenshots
 

@@ -136,7 +136,7 @@ Identifies:
 ### Launch GUI
 
 ```powershell
-powershell.exe -STA -ExecutionPolicy Bypass -File .\Get-EWS-AppInventory-GUI.ps1
+powershell.exe -ExecutionPolicy Bypass -File .\Get-EWS-AppInventory-GUI.ps1
 ```
 
 ***

@@ -125,12 +125,6 @@ Identifies:
 
 ***
 
-## 🖼️ Screenshots
-
-*(optional – hier kannst du später GUI Screenshots ergänzen)*
-
-***
-
 ## 🚀 Quick Start
 
 ### Launch GUI
